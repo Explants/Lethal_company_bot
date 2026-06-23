@@ -1,0 +1,4 @@
+images/
+lethal_company_venv/
+__pycache__/
+*.pyc
